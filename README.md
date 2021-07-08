@@ -1,3 +1,3 @@
-# MNIST_node_dfa
+# Using Direct Feedback Alignment for training NeuralOrdinary Differential Equations
 
-Requis : torchdiffeq. (pip install torchdiffeq)
+Requirements : torchdiffeq. (pip install torchdiffeq)
