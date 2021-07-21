@@ -1,4 +1,4 @@
-# Using Direct Feedback Alignment for training NeuralOrdinary Differential Equations
+# Using Direct Feedback Alignment for training Neural Ordinary Differential Equations
 
 Requirements : torchdiffeq. (pip install torchdiffeq)
 
