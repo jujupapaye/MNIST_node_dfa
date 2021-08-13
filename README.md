@@ -17,6 +17,8 @@ usage: python ode_dfa_spiral_test.py [-h] [--method {DFA,adjoint}]
 
 ## MNIST classification test
 
+Problème de fonctionnement ici de DFA dans le code, refaire la partie backward DFA.
+
 usage : python ode_dfa_MNIST_test.py [-h] [--DFA {True,False}]
                              [--name_model NAME_MODEL]
                              [--adjoint {True,False}] [--nepochs NEPOCHS]
